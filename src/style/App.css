@@ -1,0 +1,14 @@
+.baseWindow{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+body{
+    background:linear-gradient(90deg, rgb(2, 109, 107), rgb(96, 5, 207));
+    padding: 0;
+    margin: 0;
+}
